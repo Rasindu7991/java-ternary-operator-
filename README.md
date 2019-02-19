@@ -1,5 +1,6 @@
 //java-ternary-operator-
 //Easier way to use if:else statement
+//my name is rasindu
 
 
 class demo{
